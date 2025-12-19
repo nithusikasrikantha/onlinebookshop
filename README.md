@@ -37,7 +37,5 @@ Each role has role-based access and dedicated functionalities.
 - **Server:** XAMPP  
 - **Design:** Responsive Web Design  
 
----
 
-## 🗂 Project Structure
 
